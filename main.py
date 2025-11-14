@@ -1,3 +1,4 @@
+##OI PROFESSOR, EU SEM QUERER MANDEI O FORMS SEM ENVIAR O LINK DO GITHUB, AGORA MANDEI OUTRO PELO LOGIN DE OUTRA PESSOA DO MEU GRUPO COM O LINK DO GITHUB!!!!!
 import random
 
 min = 1
@@ -20,4 +21,8 @@ for tentativa in range(1, maximo + 1):
     else:
         print("é menor")
 else:
+
     print(f"Você chegou no numero maximo de tentativas. O número era {numeroCerto}.")
+
+
+##OI PROFESSOR, EU SEM QUERER MANDEI O FORMS SEM ENVIAR O LINK DO GITHUB, AGORA MANDEI OUTRO PELO LOGIN DE OUTRA PESSOA DO MEU GRUPO COM O LINK DO GITHUB!!!!!
